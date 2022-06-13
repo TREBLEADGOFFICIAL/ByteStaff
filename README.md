@@ -13,7 +13,7 @@ For example we can trigger a boolean count up to/for eight in the following code
 
 `if ByteStaff.adg => "Display" => Output8 < 72{`
 
-`|    if ByteStaff.adg => "Display" => Output8 < 72{
+`|    if ByteStaff.adg => "Display" => Output8 < 72{`
 
 `|    |    if ByteStaff.adg => "Display" => Output7 > 72{`
 
