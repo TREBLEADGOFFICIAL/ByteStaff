@@ -1,6 +1,4 @@
-12:06 AM 6/13/2022
-
-# Byte Staff Readme
+# Byte Staff
 
 **Introduction**
 This is the byte counter which can be set up in a few ways including:
@@ -80,4 +78,10 @@ This is required as this will increment as fast as possible then trigger a devic
 
 This device is a 3 bit ALU that has an 8 by 8 breadth. Thus it is the byte processor and used to give the system various functions which it has. As well this byte processor has some turing capacity at en masse level at least.
 
-_
+**TALK PAGE**
+
+This device is refered to in the ALU Section as well. It needs a page on it's own!
+
+I am working on the wiki page and also posting this standalone as it is the core component used.
+
+Work is finished I am posting now to the wiki, this will also be availible under the readme of byte staff.
